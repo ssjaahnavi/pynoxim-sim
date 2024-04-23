@@ -12,7 +12,7 @@ Pynoxim is written as a course  project (for 'Design and Test of Multi-core chip
 3) Matplotlib -- python module for plotting
 4) pyyaml -- python module for YAML
 5) numpy -- python module for numerical matrices and analysis.
-### Jupyter Notebook Installation for Python Platform (Check the above files). 
+### Jupyter Notebook Installation for Python Platform (Check the Jupyter Notebook File above). 
 
 Run the following command to install remaining dependency.
 ```bash
