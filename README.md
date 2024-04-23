@@ -7,12 +7,14 @@ Pynoxim is written as a course  project (for 'Design and Test of Multi-core chip
 
 
 ## Prerequisites
+
+->Jupyter Notebook Installation for Python Platform (Check the Jupyter Notebook File above). 
+
 1) noxim -- compile it using the script or instructions found here. https://github.com/davidepatti/noxim
 2) Install python > version 3.5. https://www.python.org/downloads/ Make sure that you have updated version of pip and setuptools.
 3) Matplotlib -- python module for plotting
 4) pyyaml -- python module for YAML
 5) numpy -- python module for numerical matrices and analysis.
-### Jupyter Notebook Installation for Python Platform (Check the Jupyter Notebook File above). 
 
 Run the following command to install remaining dependency.
 ```bash
